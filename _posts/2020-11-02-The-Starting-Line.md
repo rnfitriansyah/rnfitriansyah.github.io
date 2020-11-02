@@ -19,9 +19,7 @@ Untungnya masih ada Tumblr, Exposure, Steller, dan Evernote, yang bisa digunakan
 Tapi mengapa seperti ada rasa yang hilang, tidak sama seperti kalau aku tumpahkan di Twitter.
 
 Sampai suatu ketika, aku membaca personal blog temanku yang sangat sederhana namun elegan, terus fungsi utamanya sebagai "personal blog" terpenuhi. Mengapa aku tidak membuat yang seperti itu saja?
-
 and here I am, trying this way.
-
 Nulis ini sambil membayangkan ada Mando di ujung sana dan bilang "this is the way, Riz!" layaknya narator di HIMYM.
 
 Biarlah untuk beberapa waktu ke depan, cara ini yang kugunakan. Siapa tau bisa ikut merapikan semua ide, tulisan, dan catatan setengah jadi yang berserakan di Evernote, atau bahkan menyusunnya menjadi tulisan utuh dan kompre di sini.
