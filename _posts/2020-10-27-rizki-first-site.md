@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post
 title: "My personal site using GitHub and Jekyll"
 date: 2020-10-27
 ---
