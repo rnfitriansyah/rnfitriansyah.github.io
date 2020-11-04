@@ -1,3 +1,10 @@
+---
+layout: post
+title: "The Starting Line"
+date: 2020-11-02
+---
+
+
 Aku masih ingat kala itu saat orang-orang masih ramai bermain Path, beberapa mulai bermain Instagram, dan hampir semuanya meninggalkan Twitter. 
 
 Aku menjadikan Twitter (juga Tumblr) sebagai tempat pembuangan sampah dari pemikiranku yang terbengkalai. Karena aku tahu, apapun yang aku tweet tidak akan dibaca oleh siapapun, terlebih lagi aku terbiasa ngetweet di akhir hari. 
