@@ -2,13 +2,6 @@
 /* =========== GLOBAL STYLES ============================== */
 /* ======================================================== */
 
-#container{
-    min-height: 100vh;
-    width: 100%; max-width: 1200px; margin: 100px auto;
-    padding: 1em;
-    border: 4px solid #222;
-}
-
 nav ul, footer ul {
     text-align: right;
     font-family:'Gotham Light';
