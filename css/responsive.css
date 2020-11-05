@@ -57,22 +57,19 @@ ul.posts li {
 
 @media screen and (min-width: 350px) {
     body{
-        background-color: none;
+        background-color: black;
     }
 
     header {
         min-height: 120px;
-        background-color: rgba(220,220,220,.6);
     }
 
     nav {
         min-height: 70px;
-        background-color: rgba(180,180,180,.6);
     }
 
     main {
         min-height: 500px;
-        background-color: rgba(140,140,140,.6);
     }
 
     footer {
