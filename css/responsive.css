@@ -102,7 +102,7 @@ ul.posts li {
         background-color: none;
     }
 
-    ul.posts {
+    main {
         max-width: 600px;
         margin: 0 auto 0;
     }
@@ -116,7 +116,7 @@ ul.posts li {
     body{
         background-color: none;
     }
-    ul.posts {
+    main {
         max-width: 650px;
         margin: 0 auto 0;
     }
