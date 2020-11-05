@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<title>Fitriansyah</title>
+			<title>{{ page.title }}</title>
 			<!-- external styles -->
 			<link rel="stylesheet" type="text/css" href="/css/responsive.css">
 		</head>
 		<body>
 			<div id="container">
 				<header>  
-      					<h1 style="font-size: 40px; color: black;text-align: left;">fitriansyah</h1>  
+					<a href="https://rnfitriansyah.github.io/"><h1 style="font-size: 40px; color: black;text-align: left;">fitriansyah</h1></a>
   				</header> 
 				<nav>
 	    				<ul>
@@ -17,12 +17,8 @@
 	    				</ul>
 				</nav>
 				<main>
-					<h2 style="font-size: 32px; color: black;text-align: left; font-family: Gotham">
-  						{{ page.title }}</h2>
-					<h3 class="meta">{{ page.date | date_to_string }}</h3>
-
 					<div class="container">
-						<p>{{ content }}</p>
+						{{ content }}
 					</div>
 				</main>
 				<footer>
