@@ -2,7 +2,6 @@
 /* =========== GLOBAL STYLES ============================== */
 /* ======================================================== */
 
-
 * {
     margin: 0px; padding: 0; border: 0; box-sizing: border-box;
 }
@@ -40,10 +39,20 @@ h1 {
     font-size: 3em;
     font-family:'Gotham Medium';
 }
+
+h2 {
+    font-size: 2em;
+    font-family:'Garamond';
+}
+
+h3 {
+    font-size: .8em;
+    font-family:'Gotham Light';
+}
 p {
     font-family:'Gotham book';
-    font-size: 1.2em;
-    line-height: 1.5em;
+    font-size: 1.1em;
+    line-height: 1.4em;
     color: #333;
     text-align: left;
 }
@@ -52,11 +61,6 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     font-color: white;
-}
-
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
 }
 
 ul.posts li {
@@ -80,7 +84,7 @@ ul.posts li {
     }
 
     main {
-        min-height: 500px;
+        min-height: 550px;
     }
 
     footer {
@@ -93,12 +97,16 @@ ul.posts li {
 /* =========== TABLET STYLES  ============================== */
 /* ======================================================== */
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 800px) {
     body{
         background-color: none;
     }
-}
 
+    main {
+        max-width: 600px;
+        margin: 0 auto 0;
+    }
+}
 
 /* ======================================================== */
 /* =========== DESKTOP STYLES  ============================== */
@@ -107,5 +115,9 @@ ul.posts li {
 @media screen and (min-width: 1200px) {
     body{
         background-color: none;
+    }
+    main {
+        max-width: 650px;
+        margin: 0 auto 0;
     }
 }
