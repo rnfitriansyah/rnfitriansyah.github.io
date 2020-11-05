@@ -51,8 +51,7 @@ h3 {
 }
 
 p {
-    margin-top: 10px;
-    font-family:'Calibri';
+     font-family:'Calibri';
     font-size: 1.2em;
     line-height: 1.5em;
     color: #333;
@@ -82,7 +81,7 @@ footer {
     }
 
     main {
-        margin: 20px;
+        margin: 40px auto 40px;
         min-height: 550px;
     }
 
