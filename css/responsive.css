@@ -68,7 +68,7 @@ footer {
 /* =========== PHONE STYLES  ============================== */
 /* ======================================================== */
 
-@media screen and (min-width: 450px) {
+@media screen and (min-width: 350px) {
     body{
     }
 
@@ -81,7 +81,6 @@ footer {
     }
 
     main {
-        margin: 40px auto 40px;
         min-height: 550px;
     }
 
