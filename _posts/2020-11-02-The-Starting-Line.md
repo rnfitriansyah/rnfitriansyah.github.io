@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: responsive
 title: "The Starting Line"
 date: 2020-11-02
 ---
