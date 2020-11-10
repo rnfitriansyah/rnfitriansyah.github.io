@@ -12,7 +12,101 @@
     padding: 1em;
 }
 
+.column {
+    float: left;
+    height: 50px;
+}
 
+.left {
+    width: 30%;
+}
+
+.right {
+    width: 70%;
+    text-align: right;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+nav ul {
+    font-family:'Gotham Light';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
+footer ul {
+    font-family:'Gotham Light';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 32px;
+}
+
+header {
+    border-bottom: 1px solid #d5d5d5;
+}
+
+nav {
+    border-bottom: 1px solid #d5d5d5;
+    font-size: 1.2em;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: none;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Gotham Medium';
+}
+
+h2 {
+    font-size: 2em;
+    font-family:'Garamond';
+}
+
+h3 {
+    font-size: .8em;
+    font-family:'Gotham Light';
+}
+
+p {
+    font-family:'Gotham book';
+    font-size: 1em;
+    line-height: 1.3em;
+    color: #333;
+    text-align: left;
+}
+
+.posts { 
+    margin: 20px auto 40px;
+    font-family:'Gotham book';
+    font-size: 1em;
+    line-height: 1.3em;
+    color: #333;
+    text-align: left;
+}
+
+ul.posts li {
+    list-style: none;
+}
+footer {
+    padding-top: 10px;
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+    font-color: white;
+}
 
 /* ======================================================== */
 /* =========== PHONE STYLES  ============================== */
