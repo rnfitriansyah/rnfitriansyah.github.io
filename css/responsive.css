@@ -145,6 +145,7 @@ footer {
 
     main {
         max-width: 600px;
+        min-height: 600px;
         margin: 0 auto 0;
     }
 }
@@ -159,6 +160,7 @@ footer {
     }
     main {
         max-width: 650px;
+        min-height: 600px;
         margin: 0 auto 0;
     }
 }
