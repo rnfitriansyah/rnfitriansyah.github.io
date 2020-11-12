@@ -68,17 +68,17 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Gotham Medium';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 h2 {
     font-size: 2em;
-    font-family:'Garamond';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 h3 {
     font-size: .8em;
-    font-family:'Gotham Light';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 p {
@@ -95,6 +95,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
 footer {
     padding-top: 10px;
     border-top: 1px solid #d5d5d5;
