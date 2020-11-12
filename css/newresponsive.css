@@ -1,15 +1,6 @@
-/* ======================================================== */
-/* =========== GLOBAL STYLES ============================== */
-/* ======================================================== */
-
-* {
-    margin: 0px; padding: 0; border: 0; box-sizing: border-box;
-}
-
-#container{
-    min-height: 100vh;
-    width: 100%; max-width: 1200px; margin: 0 auto;
-    padding: 1em;
+body {
+    margin: 60px auto;
+    width: 70%;
 }
 
 .column {
@@ -30,17 +21,16 @@
     content: "";
     display: table;
     clear: both;
-}
 
 nav ul {
-    font-family:'Gotham Light';
+    font-family:'Gotham';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 
 footer ul {
-    font-family:'Gotham Light';
+    font-family:'Gotham';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -50,15 +40,11 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 32px;
 }
-
-header {
-    border-bottom: 1px solid #d5d5d5;
-}
-
+    
 nav {
     border-bottom: 1px solid #d5d5d5;
     font-size: 1.2em;
-}
+
 a {
     text-decoration: none;
     color: #999;
@@ -66,25 +52,22 @@ a {
 a:hover {
     text-decoration: none;
 }
+    
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-
-h2 {
-    font-size: 2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-
-h3 {
-    font-size: .8em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-
+    
 p {
     font-size: 1.1em;
     line-height: 1.6em;
     color: #333;
+}
+    
+footer {
+    padding-top: 10px;
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
 }
 
 ul.posts { 
@@ -94,11 +77,4 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-
-footer {
-    padding-top: 10px;
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-    font-color: black;
 }
