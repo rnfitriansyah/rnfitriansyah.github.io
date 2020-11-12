@@ -22,33 +22,50 @@ body {
     display: table;
     clear: both;
 
-nav ul, footer ul {
+nav ul {
     font-family:'Gotham';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
+
+footer ul {
+    font-family:'Gotham';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 32px;
 }
+    
+nav {
+    border-bottom: 1px solid #d5d5d5;
+    font-size: 1.2em;
+
 a {
     text-decoration: none;
     color: #999;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
+    
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+    
 p {
     font-size: 1.1em;
     line-height: 1.6em;
     color: #333;
 }
+    
 footer {
+    padding-top: 10px;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
