@@ -153,7 +153,7 @@ footer {
     body{
         background-color: none;
     }
-    main {
+    ul.posts {
         max-width: 650px;
         min-height: 600px;
         margin: 0 auto 30px;
