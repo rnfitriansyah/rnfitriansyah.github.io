@@ -81,20 +81,6 @@ h3 {
     font-family:'Gotham Light';
 }
 
-p {
-    font-size: 1.1em;
-    line-height: 2em;
-    color: #333;
-
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
-
-ul.posts li {
-    list-style: none;
-}
-
 footer {
     padding-top: 10px;
     border-top: 1px solid #d5d5d5;
@@ -120,7 +106,22 @@ footer {
 
     main {
         min-height: 300px;
-        margin: 0 auto 10px;
+        max-width: 300px;
+        
+        p {
+            font-size: 1.1em;
+            line-height: 2em;
+            color: #333;
+        }
+
+        ul.posts { 
+            margin: 20px auto 40px; 
+            font-size: 1.5em;
+        }
+
+        ul.posts li {
+            list-style: none;
+        }
     }
 
     footer {
@@ -153,7 +154,7 @@ footer {
     body{
         background-color: none;
     }
-    ul.posts {
+    main {
         max-width: 650px;
         min-height: 600px;
         margin: 0 auto 30px;
