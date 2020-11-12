@@ -1,6 +1,15 @@
-body {
-    margin: 60px auto;
-    width: 70%;
+/* ======================================================== */
+/* =========== GLOBAL STYLES ============================== */
+/* ======================================================== */
+
+* {
+    margin: 0px; padding: 0; border: 0; box-sizing: border-box;
+}
+
+#container{
+    min-height: 100vh;
+    width: 100%; max-width: 1200px; margin: 0 auto;
+    padding: 1em;
 }
 
 .column {
@@ -21,16 +30,17 @@ body {
     content: "";
     display: table;
     clear: both;
+}
 
 nav ul {
-    font-family:'Gotham';
+    font-family:'Gotham Light';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 
 footer ul {
-    font-family:'Gotham';
+    font-family:'Gotham Light';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -40,11 +50,15 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 32px;
 }
-    
+
+header {
+    border-bottom: 1px solid #d5d5d5;
+}
+
 nav {
     border-bottom: 1px solid #d5d5d5;
     font-size: 1.2em;
-
+}
 a {
     text-decoration: none;
     color: #999;
@@ -52,29 +66,36 @@ a {
 a:hover {
     text-decoration: none;
 }
-    
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Gotham Medium';
 }
-    
-p {
-    font-size: 1.1em;
-    line-height: 1.6em;
-    color: #333;
+
+h2 {
+    font-size: 2em;
+    font-family:'Garamond';
 }
-    
-footer {
-    padding-top: 10px;
-    border-top: 1px solid #d5d5d5;
+
+h3 {
     font-size: .8em;
+    font-family:'Gotham Light';
 }
 
 ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
+    margin: 20px auto 40px;
+    font-family:'Gotham book';
+    font-size: 1em;
+    line-height: 1.3em;
+    color: #333;
+    text-align: left;
 }
 
 ul.posts li {
     list-style: none;
+}
+footer {
+    padding-top: 10px;
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+    font-color: black;
 }
