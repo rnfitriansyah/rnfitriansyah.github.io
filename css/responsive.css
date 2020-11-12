@@ -138,7 +138,7 @@ footer {
     main {
         max-width: 600px;
         min-height: 700px;
-        margin: 0 auto 0;
+        margin: 0 auto 20px;
     }
 }
 
@@ -153,6 +153,6 @@ footer {
     main {
         max-width: 650px;
         min-height: 700px;
-        margin: 0 auto 0;
+        margin: 0 auto 20px;
     }
 }
