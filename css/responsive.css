@@ -89,7 +89,7 @@ p {
     text-align: left;
 }
 
-.posts { 
+ul.posts { 
     margin: 20px auto 40px;
     font-family:'Gotham book';
     font-size: 1em;
@@ -145,7 +145,7 @@ footer {
 
     main {
         max-width: 600px;
-        min-height: 600px;
+        min-height: 700px;
         margin: 0 auto 0;
     }
 }
