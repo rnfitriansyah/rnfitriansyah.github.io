@@ -81,13 +81,6 @@ h3 {
     font-family:'Gotham Light';
 }
 
-footer {
-    padding-top: 10px;
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-    font-color: white;
-}
-
 /* ======================================================== */
 /* =========== PHONE STYLES  ============================== */
 /* ======================================================== */
@@ -106,8 +99,6 @@ footer {
 
     main {
         min-height: 300px;
-        max-width: 300px;
-        
         p {
             font-size: 1.1em;
             line-height: 2em;
@@ -115,6 +106,7 @@ footer {
         }
 
         ul.posts { 
+            max-width: 300px;
             margin: 20px auto 40px; 
             font-size: 1.5em;
         }
@@ -125,7 +117,10 @@ footer {
     }
 
     footer {
-        min-height: 80px;
+        padding-top: 10px;
+        border-top: 1px solid #d5d5d5;
+        font-size: .8em;
+        font-color: white;
         background-color: black;
     }
 }
