@@ -81,14 +81,6 @@ h3 {
     font-family:'Gotham Light';
 }
 
-p {
-    font-family:'Gotham book';
-    font-size: 1em;
-    line-height: 1.3em;
-    color: #333;
-    text-align: left;
-}
-
 ul.posts { 
     margin: 20px auto 40px;
     font-family:'Gotham book';
