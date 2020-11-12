@@ -1,5 +1,5 @@
 ---
-layout: responsive
+layout: post
 title: "The Starting Line"
 date: 2020-11-02
 ---
