@@ -102,7 +102,7 @@ ul.posts li {
 /* =========== PHONE STYLES  ============================== */
 /* ======================================================== */
 
-@media screen and (min-width: 320px) {
+@media screen and (min-width: 350px) {
     body{
     }
 
@@ -115,10 +115,11 @@ ul.posts li {
     }
 
     main {
-        min-height: 300px;
+        min-height: 500px;
     }
 
     footer {
+        min-height: 200px;
         padding-top: 10px;
         border-top: 1px solid #d5d5d5;
         font-size: .8em;
@@ -131,7 +132,7 @@ ul.posts li {
 /* =========== TABLET STYLES  ============================== */
 /* ======================================================== */
 
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 700px) {
     body{
         background-color: none;
     }
@@ -147,7 +148,7 @@ ul.posts li {
 /* =========== DESKTOP STYLES  ============================== */
 /* ======================================================== */
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 1200px) {
     body{
         background-color: none;
     }
