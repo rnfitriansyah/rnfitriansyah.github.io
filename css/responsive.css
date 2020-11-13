@@ -8,10 +8,6 @@
     margin: 0px; padding: 0; border: 0; box-sizing: border-box;
 }
 
-html {
-	font-size: 62.5%;
-}
-
 #container{
     min-height: 100vh;
     width: 100%; max-width: 1200px; margin: 0 auto;
@@ -108,7 +104,6 @@ ul.posts li {
 
 @media screen and (min-width: 350px) {
     body{
-	    min-width: 100%;
     }
 
     header {
@@ -124,7 +119,7 @@ ul.posts li {
     }
 
     footer {
-        min-height: 200px;
+        min-height: 20px;
         border-top: 1px solid #d5d5d5;
         padding-top: 10px;
         font-size: .8em;
