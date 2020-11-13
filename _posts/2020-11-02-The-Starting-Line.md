@@ -5,13 +5,9 @@ date: 2020-11-02
 ---
 
 
-Aku masih ingat kala itu saat orang-orang masih ramai bermain Path, beberapa mulai bermain Instagram, dan hampir semuanya meninggalkan Twitter.<br>
-
-
-Aku menjadikan Twitter (juga Tumblr) sebagai tempat pembuangan sampah dari pemikiranku yang terbengkalai. Karena aku tahu, apapun yang aku tweet tidak akan dibaca oleh siapapun, terlebih lagi aku terbiasa ngetweet di akhir hari.<br>
-
-
-Entah dari mana asalnya, tetiba Twitter populer lagi dan semua orang kembali menggunakannya.<br> 
+<p>Aku masih ingat kala itu saat orang-orang masih ramai bermain Path, beberapa mulai bermain Instagram, dan hampir semuanya meninggalkan Twitter.</p>
+<p>Aku menjadikan Twitter (juga Tumblr) sebagai tempat pembuangan sampah dari pemikiranku yang terbengkalai. Karena aku tahu, apapun yang aku tweet tidak akan dibaca oleh siapapun, terlebih lagi aku terbiasa ngetweet di akhir hari.</p>
+<p>Entah dari mana asalnya, tetiba Twitter populer lagi dan semua orang kembali menggunakannya.</p> 
 
 
 Aku pun kehilangan fungsi utama Twitter bagiku; aku ingin mengekspresikan apapun yang ada di kepala ku tanpa harus memikirkan orang lain. Ya, aku cukup egois, kalau kamu ingin bilang seperti itu, silahkan.<br>
