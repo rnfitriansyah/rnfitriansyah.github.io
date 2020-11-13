@@ -104,6 +104,9 @@ ul.posts li {
 
 @media screen and (min-width: 350px) {
     body{
+        min-height: 100%;
+        margin: 0;
+        padding: 0;
     }
 
     header {
