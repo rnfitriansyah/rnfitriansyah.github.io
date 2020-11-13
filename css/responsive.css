@@ -120,12 +120,13 @@ ul.posts li {
     }
 
     footer {
-        min-height: 20px;
+        min-height: 60px;
         border-top: 1px solid #d5d5d5;
+        background-color: black;
         padding-top: 10px;
         font-size: .8em;
         font-color: white;
-        background-color: black;
+        
     }
 }
 
@@ -143,6 +144,9 @@ ul.posts li {
         min-height: 600px;
         margin: 0 auto 40px;
     }
+    
+    footer {
+        min-height: 100px;
 }
 
 /* ======================================================== */
