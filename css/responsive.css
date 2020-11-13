@@ -87,15 +87,14 @@ h3 {
      color: #333;
 }
 
-        ul.posts { 
-            max-width: 300px;
-            margin: 20px auto 40px; 
-            font-size: 1.5em;
+ul.posts { 
+      margin: 40px auto 40px; 
+      font-size: 1.5em;
         }
 
-        ul.posts li {
-            list-style: none;
-        }
+ul.posts li {
+      list-style: none;
+}
 
 /* ======================================================== */
 /* =========== PHONE STYLES  ============================== */
