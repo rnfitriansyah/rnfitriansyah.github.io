@@ -50,11 +50,11 @@ footer ul {
 
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 32px;
+    margin-right: 0;
 }
 
 header {
-    border-bottom: 1px solid #d5d5d5;
+    border-bottom: 2px solid #d5d5d5;
 }
 
 nav {
