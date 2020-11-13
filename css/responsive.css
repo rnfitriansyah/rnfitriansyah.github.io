@@ -9,7 +9,7 @@ body{
     margin-left: 10px;
 }
 
-* {
+:not(body){
 	margin: 0px; padding: 0; border: 0; box-sizing: border-box;
 }
 
